@@ -1,4 +1,4 @@
-TinDog
+tindog
 
 _Tinder for Dogs_
 
